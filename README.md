@@ -7,7 +7,6 @@ numpy == 1.21.2 <br>
 pandas == 1.5.3 <br>
 rdkit == 2022.9.5 <be>
 scikit-learn == 1.3.2 <br>
-Pconsc4 == 0.4 <br>
 pytorch == 2.4.1 <br>
 PyG (torch-geometric) == 2.6.1 <br>
 
